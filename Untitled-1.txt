@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Привет</title>
+    </head>
+    <body>
+        Привет <a href="https://tenor.com/view/kermit-gif-6063953">мир</a>!
+        <script src = 'script.js'>
+        </script>
+    </body> 
+</html>
+
